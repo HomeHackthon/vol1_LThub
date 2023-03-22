@@ -25,7 +25,11 @@ module.exports = {
   },
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'wineRed': "#4E143E",
+      },
+    },
   },
   plugins: [],
 }
