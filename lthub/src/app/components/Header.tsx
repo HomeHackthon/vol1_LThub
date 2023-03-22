@@ -1,9 +1,9 @@
 const Header = () => {
   return (
     <header className="text-white body-font bg-fuchsia-900">
-      <div className="container md:mx-auto mx-0 flex py-5 flex-row justify-between">
+      <div className="container mx-auto flex py-5 flex-row justify-between">
         <a className="flex title-font font-medium items-center">
-          <span className="ml-3 text-xl md:ml-0">LThub</span>
+          <span className="ml-3 text-3xl md:ml-0">LThub</span>
         </a>
         <div className="mr-3">
           <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base">Button
